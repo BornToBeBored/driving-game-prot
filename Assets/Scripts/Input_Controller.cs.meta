@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 33f2b26afa1eff64899f649d10467283
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - car_controller: {fileID: 919132149155446097, guid: 5b01ec24c54859549957c8a34fc8dcab, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
